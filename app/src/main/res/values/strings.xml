@@ -1,0 +1,76 @@
+<!DOCTYPE resources
+    [<!ENTITY appname "বাংলা গল্প - The Untold Story "><!ENTITY author "MrGreen"><!ENTITY site_url "http://macwap.com"><!ENTITY email "rasel6999@gmail.com"><!ENTITY phone "+96898587040">]><!--http://anonymouse.org/cgi-bin/anon-www.cgi/-->
+
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-5768679076619555/8370881021</string>
+    <string name="banner_postview">ca-app-pub-5768679076619555~6894147822</string>
+    <string name="facebook_app_id">408102076232201</string>
+    <string name="app_name">&appname;</string>
+    <string name="site_url">&site_url;</string>
+    <string name="site_singel_api">https://rohosso.ga/wp-content/plugins/rohosso/config/api.php?type=singledata</string>
+    <string name="site_all_api">https://rohosso.ga/wp-content/plugins/rohosso/config/api.php?type=alldata</string>
+    <string name="site_img">&site_url;/social/thumb.php?t=m&amp;zc=3&amp;src=</string>
+    <string name="defult_img">&site_url;/social/plugins/storynotification/No_Image_Available.gif</string>
+    <string name="post_url">&site_url;/social/post/</string>
+    <string name="dev_email"> &email; </string>
+    <string name="dev_name">RDx RaSeL</string>
+    <string name="dev_description">Web &amp; Android Developer</string>
+    <string name="whatsapp_number">&phone;</string>
+    <string name="dev_link">http://macwap.com/social/profile/rdx_rasel</string>
+
+
+    <string name="email">Email:  </string>
+    <string name="phone">Phone:   </string>
+    <string name="Website">Website:   </string>
+
+    <string name="remove">   Remove </string>
+    <string name="share">   Share </string>
+    <string name="share_messenger">   Share on  messenger </string>
+    <string name="share_facebook">  Share on  facebook  </string>
+    <string name="share_whatsapp">  Share on  whatsapp  </string>
+    <string name="copy_clipboard">  Copy to Clipboard </string>
+    <string name="view_online">  Comment </string>
+    <string name="add_favorite">  Add/Remove favorite list</string>
+    <string name="remove_favorite">  Remove from  favorite list</string>
+    <string name="footer">This article is host by   </string>
+    <string name="more_articles">More articles   </string>
+
+
+    <string name="error_title">   Error </string>
+    <string name="error_main">   Error !! No Data  Available </string>
+    <string name="error_not_favarite">   There is no article in the favorite. Start adding now </string>
+    <string name="error_not_data">  There is no product in the database. Please Some time moment for download   article from internet </string>
+    <string name="copy_to_clipboard"> Copied to clipboard</string>
+    <string name="add_to_favorite"> Added to Favorite</string>
+    <string name="remove_to_favorite"> Remove From Favorite</string>
+    <string name="remove_from_list">Successfully  Remove From database</string>
+    <string name="open_url_tost">  Please wait ....</string>
+
+    <string name="read_more">\n \n \n read more at  \n  </string>
+
+    <string name="recent">   RECENT </string>
+    <string name="favorite">  FAVORITE </string>
+    <string name="category">  CATEGORY </string>
+    <string name="close">  Close</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_more_app">More apps by developer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_post_view">PostView</string>
+    <string name="action_exit">Exit App</string>
+    <string name="action_rate">Rate This App</string>
+    <string name="share_app">Share this app with friends</string>
+    <string name="share_using">Share via</string>
+
+    <string name="send_email">Send email to developer</string>
+
+    <string name="contact_dev">" Contact with  Developer"</string>
+    <string name="whatsapp_not_install">WhatsApp not Installed</string>
+    <string name="messenger_not_install">Messenger not Installed</string>
+
+    <string name="share_text">Hi download &appname; ! this is awesome app i have ever seen \n </string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>

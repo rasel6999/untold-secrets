@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:orderInCategory="1"
+        android:id="@+id/nmain" android:checkableBehavior="single">
+
+    </group>
+
+    <group
+        android:orderInCategory="2"
+        android:id="@+id/bmain"
+        android:checkableBehavior="single">
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share_app" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_assignment_ind_black_24dp"
+                android:title="@string/contact_dev" />
+
+
+    </group>
+
+</menu>

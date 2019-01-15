@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "467164131156",
+    "firebase_url": "https://obak-prithibi-6e0ee.firebaseio.com",
+    "project_id": "obak-prithibi-6e0ee",
+    "storage_bucket": "obak-prithibi-6e0ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467164131156:android:2452313dc4cffe01",
+        "android_client_info": {
+          "package_name": "com.macwap.obakprithibi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467164131156-ufo109mns38lc7brlf68mgoge10kqca4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKUJBaSibofEkbrQ1GQ4GIbResT6qfuWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

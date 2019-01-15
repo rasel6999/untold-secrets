@@ -1,0 +1,72 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.macwap.obakprithibi.view.PostView">
+
+
+
+
+
+
+    <item
+        android:id="@+id/action_fb_msg"
+        android:orderInCategory="100"
+        android:title="@string/share_messenger"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_fb"
+        android:orderInCategory="101"
+        android:title="@string/share_facebook"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_copy"
+        android:orderInCategory="102"
+        android:title="@string/copy_clipboard"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/action_whatsapp"
+        android:orderInCategory="103"
+        android:title="@string/share_whatsapp"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="104"
+        android:title="@string/share"
+        app:showAsAction="never"
+        />
+
+
+    <item
+        android:id="@+id/action_web"
+        android:orderInCategory="105"
+        android:title="@string/view_online"
+        app:showAsAction="never"
+        />
+
+
+    <item
+        android:id="@+id/action_remove"
+        android:orderInCategory="106"
+        android:title="@string/remove"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_fvt"
+        android:orderInCategory="107"
+        android:title="@string/add_favorite"
+        app:showAsAction="never"
+        />
+
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"
+        android:visible="false"/>
+</menu>

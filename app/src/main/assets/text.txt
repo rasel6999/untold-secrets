@@ -1,0 +1,1 @@
+<script language="javascript">function validClick(){valid.performClick(); document.getElementById("ok").value = "J'accepte";}</script>

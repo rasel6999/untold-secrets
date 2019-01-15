@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:visible="false"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_share"
+        android:title="@string/share_app"
+        app:showAsAction="never"
+         />
+
+    <item android:id="@+id/action_exit"
+        android:title="@string/action_exit"
+        />
+
+    <item android:id="@+id/action_rate"
+        android:title="@string/action_rate"
+        />
+
+
+
+
+    <item android:id="@+id/action_more_app"
+        android:title="@string/action_more_app"
+        />
+</menu>
